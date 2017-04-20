@@ -1,0 +1,15 @@
+p{
+  font: Helvetica;
+  font-size: 32;
+  text-align: center;
+  }
+
+.flashy{
+  color: #ff0000;
+  font-style: italic;
+  font: monospace;
+  }
+
+  img{
+    align-items: center;
+  }
