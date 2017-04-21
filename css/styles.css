@@ -1,15 +1,37 @@
-p{
-  font: Helvetica;
-  font-size: 32;
+p {
+  font-size: 24px;
   text-align: center;
-  }
+  font-family: 'Kaushan Script', cursive;
+}
 
-.flashy{
-  color: #ff0000;
-  font-style: italic;
-  font: monospace;
-  }
+.flashy {
+  color: #00cc00;
+}
 
-  img{
-    align-items: center;
-  }
+.best {
+  color: black;
+}
+
+body {
+  background-image: url(big-cupcake.jpg);
+  font-size: 40px;
+}
+
+.centre {
+  font-size: 24px;
+  text-align: center;
+  font-family: 'Kaushan Script', cursive;
+  align-content: center;
+  text-align: center;
+  margin: 30px;
+  padding: 40px;
+}
+
+.guiness {
+  float: right;
+}
+
+img {
+  border-radius: 12px;
+  border-color: white;
+}
